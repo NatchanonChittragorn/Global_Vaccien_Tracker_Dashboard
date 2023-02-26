@@ -1,6 +1,6 @@
 # Global_Vaccien_Tracker_Dashboard
 
-A data visualization project using Tableau to explore people vaccinated can provide valuable insights into the progress of vaccination efforts, areas where more resources may be needed, and potential relationships between vaccination rates and other factors such as economic strength.
+## A data visualization project using Tableau to explore people vaccinated can provide valuable insights into the progress of vaccination efforts, areas where more resources may be needed, and potential relationships between vaccination rates and other factors such as economic strength.
 
 - People Partially Vaccinated: This refers to the number of individuals who have received only one dose of a two-dose vaccine, or have received the first dose of a single-dose vaccine. This metric can be useful in understanding the progress of vaccination efforts, as it can help identify where more resources or outreach may be needed.
 
